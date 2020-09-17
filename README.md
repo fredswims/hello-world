@@ -9,3 +9,4 @@ it looks like the commit finializes THESE changes ...
 
 This is FJ and I want to add the following.
 Robots will not supercede swim instructors.
+I am ready 
